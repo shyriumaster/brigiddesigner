@@ -1,6 +1,4 @@
 <center>
- <img src="https://github.com/brigiddesigner/brigiddesigner/blob/b91cf8d8394e2e2db65a0003a24a55c59360bd84/cobrinha.gif">
-<center>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
