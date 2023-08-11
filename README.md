@@ -1,10 +1,12 @@
 <center>
+ <img src="https://github.com/brigiddesigner/brigiddesigner/blob/b91cf8d8394e2e2db65a0003a24a55c59360bd84/cobrinha.gif">
+<center>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 
 
-<b>Front-End developer</b>, creative, I dare you to challenge me. Hobbies: Coding, reading, social media
+<b> :two_hearts: :smiley: :heart_eyes_cat: Front-End developer :two_hearts: :smiley: :heart_eyes_cat: </b>, creative, I dare you to challenge me. Hobbies: Coding, reading, social media
 
 
 </p>
