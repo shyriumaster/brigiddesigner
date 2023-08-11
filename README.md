@@ -6,7 +6,7 @@
 <p align="left">
 
 
-<b>Front-End developer</b>, creative, I dare you to challenge me. Hobbies: Coding, reading, social media
+<b> :two_hearts: :smiley: :heart_eyes_cat: Front-End developer :two_hearts: :smiley: :heart_eyes_cat: </b>, creative, I dare you to challenge me. Hobbies: Coding, reading, social media
 
 
 </p>
